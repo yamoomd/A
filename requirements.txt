@@ -1,0 +1,11 @@
+fasttext
+transformers
+torch
+jieba
+requests
+numpy
+scikit-learn
+pandas
+openai
+qianfan
+dashscope
